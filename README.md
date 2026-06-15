@@ -16,7 +16,7 @@ Este projeto foi desenvolvido como desafio no curso de Java da Alura, com o obje
 ## Tecnologias Utilizadas
 
 - **Java 17**
-- **Spring Boot**
+- **Spring Boot 4.0.6**
 - **Spring Data JPA** (Gerenciamento e persistência de dados com o banco)
 - **PostgreSQL** (Banco de dados relacional para armazenamento dos dados)
 - **Maven** (Gerenciador de dependências)
