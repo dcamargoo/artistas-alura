@@ -26,7 +26,7 @@ Este projeto foi desenvolvido como desafio no curso de Java da Alura, com o obje
 
 ## Como Executar
 
-1. Certifique-se de ter o **Java 17** e o **PostgreSQL** instalados.
+1. Certifique-se de ter o **Java 17+** e o **PostgreSQL** instalados.
 2. Clone o repositório.
 3. Configure as credenciais do seu banco de dados no arquivo `src/main/resources/application.properties`.
 4. Execute a aplicação através da sua IDE de preferência ou utilizando o comando:
